@@ -1,0 +1,7 @@
+{
+  "name": "Interactive Christmas Photo Booth",
+  "description": "A 3D interactive Christmas experience controlled by hand gestures, featuring a particle tree and photo gallery.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
